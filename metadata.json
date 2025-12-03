@@ -1,0 +1,5 @@
+{
+  "name": "imageIN",
+  "description": "A cutting-edge generative AI application that transforms text prompts into stunning visual art using the Gemini API.",
+  "requestFramePermissions": []
+}
