@@ -1,6 +1,8 @@
 import React from 'react';
 import { Sparkles } from 'lucide-react';
 
+//header fn
+
 export const Header: React.FC = () => {
   return (
     <header className="flex items-center justify-between px-6 py-4 border-b border-slate-800 bg-slate-900/50 backdrop-blur-md sticky top-0 z-50">
