@@ -12,8 +12,7 @@ function App() {
     error: null,
   });
 
-  //jdx
-
+  //
   const handleGenerate = async (prompt: string) => {
     setState(prev => ({ ...prev, status: GenerationStatus.LOADING, error: null }));
     
