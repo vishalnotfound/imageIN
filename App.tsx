@@ -12,7 +12,7 @@ function App() {
     error: null,
   });
 
-  //
+  
   const handleGenerate = async (prompt: string) => {
     setState(prev => ({ ...prev, status: GenerationStatus.LOADING, error: null }));
     
